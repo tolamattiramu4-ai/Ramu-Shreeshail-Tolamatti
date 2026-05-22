@@ -28,7 +28,7 @@
 ### 🤖 AI Hallucination Detector System
 An AI-based system that detects hallucinations in AI-generated answers using semantic similarity, evidence comparison, and trusted sources.
 
-### 🏛️ Aidoryx / CivixAI
+### 🏛️ Aidoryx 
 AI-based citizen assistance platform with complaint system, emergency help, weather, schemes, legal help, jobs, and multilingual AI guidance.
 
 ---
