@@ -83,6 +83,4 @@ AI-based citizen assistance platform with complaint system, emergency help, weat
 
 ---
 
-## 🤝 Support
 
-Supported by: **chandansgowda**
